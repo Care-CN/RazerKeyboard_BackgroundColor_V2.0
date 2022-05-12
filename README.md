@@ -1,0 +1,2 @@
+# RazerKeyboard_BackgroundColor_V2.0
+雷蛇黑寡妇V2 使用PIL库分析将图片像素化后分析每个像素块的颜色并记录在Excel中
